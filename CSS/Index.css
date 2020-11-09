@@ -1,0 +1,99 @@
+body {
+    background-image: url(../Images/wallpaper-pretty22.jpg);
+    font-family: "fc galaxy", "JasmineUPC", "LilyUPC";
+    text-align: left;
+    font-size: 40px;
+}
+ul li{
+    background-color:white;
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+    display: flex;
+    border-bottom:15px ;
+    color: rgb(197, 131, 7);
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(197, 131, 7);
+}
+.big{
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    color: rgb(197, 131, 7);
+}
+.div1:hover{
+    margin-left: 4px;
+    padding-left: 4px;
+    transition: .6s;
+    cursor: pointer;
+
+}
+.div2:hover{
+    margin-left: 4px;
+    padding-left: 4px;
+    transition: .4s;
+    cursor: pointer;
+
+}
+.div3:hover{
+    margin-left: 4px;
+    padding-left: 4px;
+    transition: .4s;
+    cursor: pointer;
+
+}
+.div4:hover{
+    margin-left: 4px;
+    padding-left: 4px;
+    transition: .4s;
+    cursor: pointer;
+
+}
+.div5:hover{
+    margin-left: 4px;
+    padding-left: 4px;
+    transition: .4s;
+    cursor: pointer;
+
+}
+.div6:hover{
+    margin-left: 4px;
+    padding-left: 4px;
+    transition: .20s;
+    cursor: pointer;
+
+}
+iframe{
+    width: 880px;
+    height: 660px;
+    border: 5px solid white;
+    position:relative;
+    left: 20%;
+    top: 30%;
+    
+}
+.footer{
+    position: relative;
+    left: 5%;
+    top: 5%;
+    
+}
+address{
+    color: rgb(197, 131, 7);
+    text-decoration: none;
+}
+
+ul li{
+    border-right: 1em solid rgb(197, 131, 7);
+    border-radius: 15px;
+}
+
+header{
+    text-align: center;
+}
+
+
+

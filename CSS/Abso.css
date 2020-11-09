@@ -1,0 +1,72 @@
+body {
+    background-image: url(../Images/3.jpg);
+    background-size: cover;
+    font-family: "fc galaxy" , "JasmineUPC" , "LilyUPC";
+    color: rgb(197, 131, 7);
+    text-align: center;
+}
+
+
+.MY1{
+    font-size: 20px;
+    color: white;
+    text-shadow:1px 1px 1px black ;
+    margin: 0%;
+}
+.p2{
+    font-size: 40px;
+    color: white;
+}
+.p2:hover{
+    margin: 15px;
+    padding: 15px;
+    transition: .4s;
+}
+.p2:hover{
+    margin: 15px;
+    padding: 15px;
+    transition: .4s;
+}
+video{
+    border: 5px solid white;
+}
+.p3{
+    color: white;
+    text-align: center;
+}
+.video1{
+    position: relative;
+    left: 5%;
+}
+.p4{
+    position: relative;
+    left: 13%;
+    font-size: 40px;
+    color: white;
+    margin: 5px;
+}
+.div2{
+    color: white;
+    font-size: 40px;
+    
+}
+.hhh{
+    font-size: 40px;
+    color: white;
+}
+.div0{
+    color: white;
+    text-shadow:2px 3px 2px black ;
+}
+.heer{
+    position: relative;
+    left: -3%;
+}
+.font1{
+    color: white;
+    font-size: 30px;
+}
+.div00{
+    font-size: 20px;
+    color: white;
+}
